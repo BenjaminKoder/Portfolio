@@ -3,7 +3,7 @@ PORTFOLIO – BENJAMIN ENG
 
 Dette repositoryet inneholder kode relatert til prosjektene mine innen programmering og utvikling. Jeg studerer Datateknologi ved NTNU og har erfaring med webutvikling, Python-spill, Java-applikasjoner og AI-integrasjoner. Dette repoet viser et utvalg av prosjekter jeg har utviklet som del av læring og praktisk erfaring.
 
-For en presentasjon i porteføljestil med bilder og forklaringer, se min kommende porteføljeside (lenke legges til senere).
+For en presentasjon i porteføljestil med bilder og forklaringer, se min kommende porteføljeside: https://portfolio-website-nine-silk-69.vercel.app/
 
 ------------------------------------------------------------
 Teknologioversikt
