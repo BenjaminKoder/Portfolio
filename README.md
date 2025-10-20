@@ -3,7 +3,7 @@ PORTFOLIO – BENJAMIN ENG
 
 Dette repositoryet inneholder kode relatert til prosjektene mine innen programmering og utvikling. Jeg studerer Datateknologi ved NTNU og har erfaring med webutvikling, Python-spill, Java-applikasjoner og AI-integrasjoner. Dette repoet viser et utvalg av prosjekter jeg har utviklet som del av læring og praktisk erfaring.
 
-For en presentasjon i porteføljestil med bilder og forklaringer, se min kommende porteføljeside: https://portfolio-website-nine-silk-69.vercel.app/
+Se min portefølje-nettside: https://portfolio-website-nine-silk-69.vercel.app/
 
 ------------------------------------------------------------
 Teknologioversikt
@@ -55,29 +55,27 @@ Frontend-prosjekter (fra videregående)
 
 Disse prosjektene representerer tidlig utvikling innen webteknologi og er en del av min læringsprosess i HTML, CSS og JavaScript.
 
-Tallsystemer:
-https://benjaminkoder.github.io/StorsteProsjekter/Tallsystemer/index.html
-
-Spinner (LocalStorage):
-https://benjaminkoder.github.io/Spillsider/SpinnerLocal/index.html
-
-Spinner (Database):
-https://benjaminkoder.github.io/Spillsider/SpinnerDatabase/index.html
-
-HTML5 Canvas spill:
+HTML5 Canvas spill
 https://benjaminkoder.github.io/Spillsider/Canvasgamefreestyle/index.html
 
-Mario-klone:
-https://benjaminkoder.github.io/StorsteProsjekter/Mario/index.html
+Spinner (Database)
+https://pilsulator.no/Spillsider/SpinnerTycoon/Spinner.html
 
-Yatzy:
-https://benjaminkoder.github.io/StorsteProsjekter/Yatzy/index.html
+Spinner (LocalStorage)
+https://pilsulator.no/Spillsider/SpinnerTob/saannBenjiVil/index.html
 
-Monty Hall:
-https://benjaminkoder.github.io/StorsteProsjekter/MontyHall/index.html
+Terning
+https://pilsulator.no/StorsteProsjekter/Terning.html
 
-Mobil-demo:
-https://benjaminkoder.github.io/StorsteProsjekter/Mobil/index.html
+Mario 
+https://pilsulator.no/StorsteProsjekter/shyguy/index.html
+
+Monty Hall
+https://pilsulator.no/StorsteProsjekter/4B%20Hendelser/4B%20timearbeid/MontyHall.html
+
+Mobil-demo
+https://pilsulator.no/StorsteProsjekter/Mobil.html
+
 
 ------------------------------------------------------------
 Videre prosjektinformasjon
